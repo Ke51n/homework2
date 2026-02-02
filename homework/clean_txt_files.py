@@ -1,4 +1,5 @@
 import os
+# 清理所有的txt文件，用于重新生成
 
 BASE_DIR = "d:\\999-桌面\\homework\\homework\\reports"
 
